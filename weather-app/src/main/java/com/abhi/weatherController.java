@@ -94,8 +94,6 @@ public class weatherController {
           
           
           System.out.println("Data Fetched");
-          System.out.println(urlString);
-          
           theme(m,icon);
       }
       catch (IOException e){
