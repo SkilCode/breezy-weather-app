@@ -8,7 +8,7 @@ features:
 *have change theme option(color scheme changes according to the background).
 *this app shows backgrounds according to the weather in the different locations.
 
-- please check screenshots attached for details.
+- please check screenshots.zip attached for details.
 
 configuration before compilation:-
 
