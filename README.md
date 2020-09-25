@@ -1,4 +1,4 @@
-# weather-app
+# breezy-weather-app
 
 this is a simple and beautiful weather app to search weather information of any country and city in the world.
 
